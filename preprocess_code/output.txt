@@ -1,0 +1,27 @@
+Statistics: attn_success_total: 61250, attn_fail_total: 131890, success/fail: 0.4644, length_total: 800977, attn_success percentage: 0.0765, total unk percentage: 0.2411
+Statistics: attn_success_total: 27749, attn_fail_total: 45969, success/fail: 0.6036, length_total: 336474, attn_success percentage: 0.0825, total unk percentage: 0.2191
+Statistics: attn_success_total: 5826053, attn_fail_total: 9457247, success/fail: 0.6160, length_total: 62340693, attn_success percentage: 0.0935, total unk percentage: 0.2452
+Statistics: attn_success_total: 2830099, attn_fail_total: 4609149, success/fail: 0.6140, length_total: 30417894, attn_success percentage: 0.0930, total unk percentage: 0.2446
+Statistics: attn_success_total: 3239633, attn_fail_total: 6752116, success/fail: 0.4798, length_total: 62340693, attn_success percentage: 0.0520, total unk percentage: 0.1603
+Statistics: attn_success_total: 1577885, attn_fail_total: 3284925, success/fail: 0.4803, length_total: 30417894, attn_success percentage: 0.0519, total unk percentage: 0.1599
+Statistics: attn_success_total: 2004001, attn_fail_total: 5276976, success/fail: 0.3798, length_total: 62340693, attn_success percentage: 0.0321, total unk percentage: 0.1168
+Statistics: attn_success_total: 983407, attn_fail_total: 2565952, success/fail: 0.3833, length_total: 30417894, attn_success percentage: 0.0323, total unk percentage: 0.1167
+--------------------------
+Statistics: attn_success_total: 2007407, attn_fail_total: 5285969, success/fail: 0.3798, length_total: 62340693, attn_success percentage: 0.0322, total unk percentage: 0.1170
+Statistics: attn_success_total: 985513, attn_fail_total: 2570911, success/fail: 0.3833, length_total: 30417894, attn_success percentage: 0.0324, total unk percentage: 0.1169 #PY_test, attn_size is 50
+Statistics: attn_success_total: 1215723, attn_fail_total: 2340701, success/fail: 0.5194, length_total: 30417894, attn_success percentage: 0.0400, total unk percentage: 0.1169 #PY_test, attn_size is 100
+Statistics: attn_success_total: 1329858, attn_fail_total: 2226566, success/fail: 0.5973, length_total: 30417894, attn_success percentage: 0.0437, total unk percentage: 0.1169 #PY_test, attn_size is 150
+Statistics: attn_success_total: 2079826, attn_fail_total: 5445211, success/fail: 0.3820, length_total: 107104111, attn_success percentage: 0.0194, total unk percentage: 0.0703
+Statistics: attn_success_total: 1044410, attn_fail_total: 2673748, success/fail: 0.3906, length_total: 53188270, attn_success percentage: 0.0196, total unk percentage: 0.0699
+Statistics: attn_success_total: 2483781, attn_fail_total: 4809595, success/fail: 0.5164, length_total: 62340693, attn_success percentage: 0.0398, total unk percentage: 0.1170
+Statistics: attn_success_total: 1215723, attn_fail_total: 2340701, success/fail: 0.5194, length_total: 30417894, attn_success percentage: 0.0400, total unk percentage: 0.1169
+Statistics: attn_success_total: 2534934, attn_fail_total: 4990103, success/fail: 0.5080, length_total: 107104111, attn_success percentage: 0.0237, total unk percentage: 0.0703
+Statistics: attn_success_total: 1269273, attn_fail_total: 2448885, success/fail: 0.5183, length_total: 53188270, attn_success percentage: 0.0239, total unk percentage: 0.0699
+Statistics: attn_success_total: 3960793, attn_fail_total: 7909092, success/fail: 0.5008, length_total: 107104111, attn_success percentage: 0.0370, total unk percentage: 0.1108
+Statistics: attn_success_total: 1997242, attn_fail_total: 3899387, success/fail: 0.5122, length_total: 53188270, attn_success percentage: 0.0376, total unk percentage: 0.1109
+Statistics: attn_success_total: 8572892, attn_fail_total: 12842395, success/fail: 0.6675, length_total: 107104111, attn_success percentage: 0.0800, total unk percentage: 0.1999
+Statistics: attn_success_total: 4296929, attn_fail_total: 6352560, success/fail: 0.6764, length_total: 53188270, attn_success percentage: 0.0808, total unk percentage: 0.2002
+Statistics: attn_success_total: 5832257, attn_fail_total: 9473851, success/fail: 0.6156, length_total: 62340693, attn_success percentage: 0.0936, total unk percentage: 0.2455
+Statistics: attn_success_total: 2833262, attn_fail_total: 4617843, success/fail: 0.6135, length_total: 30417894, attn_success percentage: 0.0931, total unk percentage: 0.2450
+Statistics: attn_success_total: 3244113, attn_fail_total: 6763678, success/fail: 0.4796, length_total: 62340693, attn_success percentage: 0.0520, total unk percentage: 0.1605
+Statistics: attn_success_total: 1580175, attn_fail_total: 3290966, success/fail: 0.4802, length_total: 30417894, attn_success percentage: 0.0519, total unk percentage: 0.1601
