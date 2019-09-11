@@ -2,11 +2,11 @@
 The implementation of the IJCAI 2018 paper: Code Completion with Neural Attention and Pointer Networks
 ## Descriptions for the directories
 ### code
+* myModel_commented.py: a good commented example for our main model part, i.e., pointer mixture network.
 * attention.py: standard attention model for predicting terminals
 * attention_N.py: standard attention model for predicting non-terminals
 * attention_N_parent.py: parent attention model for predicting non-terminals
 * attention_parent.py: parent attention model for predicting terminals
-* myModel_commented.py: a good commented example for our model
 * pointer.py: our poirnter mixture network without parent attention
 * pointer_parent.py: our poirnter mixture network with parent attention
 * reader_pointer.py: reader for reading dataset (with parent)
